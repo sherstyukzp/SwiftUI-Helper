@@ -115,17 +115,13 @@ struct ContentView: View {
 }
 
 
-
-
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
         ContentView()
     }
 }
 
-
 ```
-
 
 RemoteImage
 ``` swift
@@ -199,9 +195,7 @@ struct RemoteImage: View {
     }
 }
 
-```
-
-      
+```      
 
 Podcast
 ``` swift

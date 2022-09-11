@@ -30,7 +30,6 @@ struct ContentView: View {
     }
 }
 
-
 ```
 
 ---
@@ -41,3 +40,4 @@ struct ContentView: View {
 ---
 ## Обратные ссылки:
 [[Section]]
+[[01 SwiftUI Helper]]

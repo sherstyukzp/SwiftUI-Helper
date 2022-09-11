@@ -30,3 +30,4 @@ Form {
 ---
 ## Обратные ссылки:
 [[Container Views]]
+[[01 SwiftUI Helper]]

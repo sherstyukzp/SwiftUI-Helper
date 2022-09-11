@@ -67,6 +67,7 @@ func getLocationDegreesFrom(longitude: Double) -> String {
 ---
 ## Связаные ссылки:
 [[extension CLLocation вариант 1]]
+[[Пример использования CoreLocation SwiftUI + MVVM]]
 
 ---
 ## Обратные ссылки:

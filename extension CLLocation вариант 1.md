@@ -48,6 +48,7 @@ location.dms       // "22°54'48"S 43°12'2"W"
 ---
 ## Связаные ссылки:
 [[extension CLLocation вариант 2]]
+[[Пример использования CoreLocation SwiftUI + MVVM]]
 
 ---
 ## Обратные ссылки:

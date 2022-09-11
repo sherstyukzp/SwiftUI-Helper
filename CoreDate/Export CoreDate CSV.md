@@ -1,4 +1,4 @@
-Tag: #CoreDate #CSV
+Tag: #CoreDate #CSV #Button #HStack #Image #Text 
 
 ---
 ## Описание:
@@ -70,12 +70,11 @@ struct SettingsView_Previews: PreviewProvider {
     }
 }
 
-
 ```
 
 ---
 ## Связаные ссылки:
-[[CoreDate]]
+
 
 ---
 ## Обратные ссылки:

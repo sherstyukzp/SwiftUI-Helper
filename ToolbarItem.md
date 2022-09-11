@@ -11,6 +11,7 @@ Tag: #ToolbarItem #Text #NavigationView #toolbar #VStack #Button #Image #navigat
 ---
 ## Код:
 Добавьте `titleView`.
+
 ``` swift
 NavigationView {    
 Text("SwiftUI").padding()        

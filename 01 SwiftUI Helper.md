@@ -54,7 +54,7 @@
 
 ### Architectural Views
 [[NavigationView]]
-	* [[NavigationBarItems]]
+	  - [[NavigationBarItems]]
 [[TabView]]
 [[HSplitView]]
 [[VSplitView]]

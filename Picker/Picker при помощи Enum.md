@@ -46,3 +46,4 @@ struct ContentView: View {
 ---
 ## Обратные ссылки:
 [[Picker]]
+[[01 SwiftUI Helper]]

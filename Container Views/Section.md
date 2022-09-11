@@ -32,3 +32,4 @@ Section(header: Text("I'm header"), footer: Text("I'm footer")) {
 ---
 ## Обратные ссылки:
 [[Container Views]]
+[[01 SwiftUI Helper]]

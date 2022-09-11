@@ -18,12 +18,13 @@ Section(header: Text("Other tasks"), footer: Text("End")) {
     TaskRow()
 }
 
-
 ```
 
 ---
 ## Связаные ссылки:
 [[Container Views/Section]]
+[[Section]]
 
 ---
 ## Обратные ссылки:
+[[01 SwiftUI Helper]]
