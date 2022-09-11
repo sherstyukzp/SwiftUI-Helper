@@ -2,8 +2,9 @@ Tag: #ObservableObject #NavigationLink #NavigationView #Button #Text #Published
 
 ---
 ## Описание:
-Код показывает как передавать данные из одного представления в другое.
-Код проверил, супер
+> [!Info] 
+> Код показывает как передавать данные из одного представления в другое.
+> Код проверил, супер
 
 ---
 ## Скриншот:
@@ -70,13 +71,12 @@ var body: some View {
 Text("Score: \(settings.score)")
 
 }
-
 }
 
 ```
 
 ---
-## Связаные ссылки:
+## Связанные ссылки:
 [[NavigationLink]]
 [[Text]]
 [[Button]]

@@ -4,5 +4,11 @@
   "spellcheck": true,
   "newFileLocation": "folder",
   "newFileFolderPath": "01 Inbox",
-  "attachmentFolderPath": "03 Attachment"
+  "attachmentFolderPath": "03 Attachment",
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }

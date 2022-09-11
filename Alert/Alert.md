@@ -24,7 +24,7 @@ alert(isPresented: $showAlert, content: {
 ---
 
 
-## Связаные ссылки:
+## Связанные ссылки:
 
 
 ---

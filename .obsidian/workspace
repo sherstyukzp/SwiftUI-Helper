@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a1636ddb4b7f4463",
+        "id": "e11110cc7e41fc5a",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Alert/Alert.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -36,9 +40,9 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "magn",
-                "matchingCase": false,
-                "explainSearch": false,
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
@@ -57,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 376.5
+    "width": 469.5
   },
   "right": {
     "id": "9f88fe8498e670b0",
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Alert/Alert.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,8 +94,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Alert/Alert.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Alert/Alert.md"
+              }
             }
           }
         ]
@@ -120,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c7e324f1e395169e",
+  "active": "e11110cc7e41fc5a",
   "lastOpenFiles": [
-    "Несколько sheet в ActiveSheet.md",
-    "2022-09-11.md",
-    "Section - сгрупированый список.md",
-    "extension CLLocation вариант 1.md",
-    "ColorScheme-LightAndDark.md",
-    "Gestures/Basic Gestures/Basic Gestures.md",
-    "Gestures/Basic Gestures/TapGesture+Single tap.md",
-    "Gestures/Basic Gestures/TapGesture+Double tap.md",
-    "Gestures/Basic Gestures/LongPressGesture.md",
-    "Gestures/Basic Gestures/DragGesture.md"
+    "Alert/Popover.md",
+    "Alert/Modal.md",
+    "Alert/Alert Show.md",
+    "State and Data Flow/Model Data/Как использовать @EnvironmentObject для обмена данными между представлениями.md",
+    "NavigationView/Добавление кнопок в вид навигации NavigationView.md",
+    "MapView/Вызов программы для навигации.md",
+    "DateFormatter/Метод получения название часа.md",
+    "DateFormatter/DateFormatter.md",
+    "DateFormatter/Метод получения года.md",
+    "CoreLocation/Пример использования CoreLocation SwiftUI + MVVM.md"
   ]
 }

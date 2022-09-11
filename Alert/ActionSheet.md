@@ -48,7 +48,7 @@ struct ContentView : View {
 ```
 
 ---
-## Связаные ссылки:
+## Связанные ссылки:
 [[VStack]]
 [[Button]]
 [[Text]]

@@ -2,7 +2,8 @@ Tag: #Alert
 
 ---
 ## Описание:
-`Popover` is used to pop up a view, see the results below.
+> [!INFO] Описание
+> `Popover` is used to pop up a view, see the results below.
 
 ---
 ## Скриншот:
@@ -19,7 +20,7 @@ Tag: #Alert
 ```
 
 ---
-## Связаные ссылки:
+## Связанные ссылки:
 
 
 ---

@@ -2,7 +2,8 @@ Tag: #Alert #Text
 
 ---
 ## Описание:
-`Modal` is used to pop up a view.
+> [!INFO] Описание
+> `Modal` is used to pop up a view.
 
 ---
 ## Скриншот:
@@ -19,7 +20,7 @@ Modal(Text("Modal View"),onDismiss: {
 ```
 
 ---
-## Связаные ссылки:
+## Связанные ссылки:
 [[Text]]
 
 ---

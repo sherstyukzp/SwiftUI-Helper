@@ -58,7 +58,7 @@ struct DetailView: View {
 
 
 ---
-## Связаные ссылки:
+## Связанные ссылки:
 [[NavigationBarTitle]]
 [[NavigationLink]]
 [[Text]]
