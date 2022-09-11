@@ -1,4 +1,8 @@
 {
   "alwaysUpdateLinks": true,
-  "fileSortOrder": "alphabetical"
+  "fileSortOrder": "alphabetical",
+  "spellcheck": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "01 Inbox",
+  "attachmentFolderPath": "03 Attachment"
 }

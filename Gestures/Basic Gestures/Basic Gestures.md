@@ -18,6 +18,8 @@ Tag: #Gesture
 [[TapGesture+Double tap]]
 [[LongPressGesture]]
 [[RotationGesture]]
+[[DragGesture]]
+[[MagnificationGesture]]
 
 ---
 ## Обратные ссылки:

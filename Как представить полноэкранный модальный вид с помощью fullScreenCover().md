@@ -1,4 +1,4 @@
-Tag: #fullScreenCover
+Tag: #fullScreenCover #environment 
 
 ---
 ## Описание:

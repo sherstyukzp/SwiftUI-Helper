@@ -121,7 +121,7 @@
 ## State and Data Flow
 
 ## Gesture
-[[Gesture]]
+[[Basic Gestures]]
 
 ### Basic Gestures
 [[TapGesture]]

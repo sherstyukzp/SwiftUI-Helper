@@ -24,3 +24,4 @@ if let windowScene = UIApplication.shared.windows.first?.windowScene { SKStoreRe
 
 ---
 ## Обратные ссылки:
+[[01 SwiftUI Helper]]

@@ -4,17 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1c5e9ae9689fe45f",
+        "id": "a1636ddb4b7f4463",
         "type": "leaf",
-        "pinned": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "01 SwiftUI Helper.md",
-            "mode": "source",
-            "source": false
-          },
-          "pinned": true
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -79,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 SwiftUI Helper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 SwiftUI Helper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "01 SwiftUI Helper.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -130,17 +120,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1c5e9ae9689fe45f",
+  "active": "c7e324f1e395169e",
   "lastOpenFiles": [
-    "DatePicker/DatePicker.md",
-    "01 SwiftUI Helper.md",
-    "Запросить отзыв в SwiftUI.md",
-    "MagnificationGesture.md",
-    "Picker/Picker - обзор.md",
-    "WebView.md",
-    "ToolbarItem.md",
-    "TimeInterval.md",
-    "SwiftUI Architectures.md",
-    "StrokeStyle.md"
+    "Несколько sheet в ActiveSheet.md",
+    "2022-09-11.md",
+    "Section - сгрупированый список.md",
+    "extension CLLocation вариант 1.md",
+    "ColorScheme-LightAndDark.md",
+    "Gestures/Basic Gestures/Basic Gestures.md",
+    "Gestures/Basic Gestures/TapGesture+Single tap.md",
+    "Gestures/Basic Gestures/TapGesture+Double tap.md",
+    "Gestures/Basic Gestures/LongPressGesture.md",
+    "Gestures/Basic Gestures/DragGesture.md"
   ]
 }

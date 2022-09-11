@@ -38,4 +38,4 @@ struct ContentView : View {
 
 ---
 ## Обратные ссылки:
-[[Gesture]]
+[[Basic Gestures]]

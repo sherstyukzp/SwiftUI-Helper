@@ -14,10 +14,10 @@ Tag: #Gesture #onChanged #onEnded #rotationEffect #RotationGesture
 ``` swift
 struct ContentView : View {
     
-    @State var angle \= 0.0
+    @State var angle = 0.0
     
     var body: some View {
-        let rotationGesture \= RotationGesture(minimumAngleDelta: Angle.init(degrees: 20))
+        let rotationGesture = RotationGesture(minimumAngleDelta: Angle.init(degrees: 20))
             .onChanged({ (angle) in
                 
                 self.angle += angle.animatableData
@@ -39,4 +39,4 @@ struct ContentView : View {
 
 ---
 ## Обратные ссылки:
-[[Gesture]]
+[[Basic Gestures]]
