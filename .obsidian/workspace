@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "7859da5102c8a537",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9cad4c098031ef7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "CoreDate.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f6c04f27ef249f61",
+    "type": "split",
+    "children": [
+      {
+        "id": "214d1974e58d3908",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7e324f1e395169e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5cc27ce2c514aff0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ada993896be17be0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9f88fe8498e670b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "92ea5a9a961d0cbe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b552f1d26d94e66",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CoreDate.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2901d9550806e420",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CoreDate.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9d7e651e8ba1cd8c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "172730d399968996",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CoreDate.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c9cad4c098031ef7",
+  "lastOpenFiles": [
+    "NavigationView/Создать NavigationView.md",
+    "Пример использования CoreLocation SwiftUI + MVVM.md",
+    "Переход по ссылке.md",
+    "TimeInterval.md",
+    "Метод отображения минут из секунд.md",
+    "MapView/Как сделать создание новой метки на карте.md",
+    "Как представить полноэкранный модальный вид с помощью fullScreenCover().md",
+    "Как представить новый вид с помощью листов.md",
+    "Как открыть веб-ссылки в Safari.md",
+    "DatePicker/Как сделать минимальную и максимальную дату.md"
+  ]
+}

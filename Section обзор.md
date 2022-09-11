@@ -1,0 +1,41 @@
+Tag: #Section 
+
+---
+## Описание:
+
+
+---
+## Скриншот:
+
+
+---
+## Код:
+
+``` swift
+struct ContentView: View {
+    var body: some View {
+        List {
+            Section(header: Text("Important tasks")) {
+                TaskRow()
+                TaskRow()
+                TaskRow()
+            }
+
+            Section(header: Text("Other tasks")) {
+                TaskRow()
+                TaskRow()
+                TaskRow()
+            }
+        }
+    }
+}
+
+```
+
+---
+## Связаные ссылки:
+[[List]]
+
+---
+## Обратные ссылки:
+[[Section]]
