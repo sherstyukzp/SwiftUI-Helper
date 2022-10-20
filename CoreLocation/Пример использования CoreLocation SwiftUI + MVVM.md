@@ -1,4 +1,4 @@
-Tag: #CoreLocation #NSObject #ObservableObject #CLLocation
+Tag: #CoreLocation #NSObject #ObservableObject #CLLocation #CLLocationManager #didUpdateLocations
 
 ---
 ## Описание:
@@ -66,16 +66,18 @@ struct LocationView: View {
 
 ```
 
-> [!Warning] Последний шаг - добавить ключ NSLocationWhenInUseUsageDescription с описанием в файл Info.plist, чтобы ваше приложение получило разрешение на использование местоположения пользователя:
+> [!Warning]  Последний шаг - добавить ключ NSLocationWhenInUseUsageDescription с описанием в файл Info.plist, чтобы ваше приложение получило разрешение на использование местоположения пользователя:
 
 ![[ask_location_permission.png]]
 
 ---
 
-## Связаные ссылки:
+## Связанные ссылки:
 
 [[MapView]]
-
+[[HStack]]
+[[VStack]]
+[[Text]]
 
 ---
 ## Обратные ссылки:

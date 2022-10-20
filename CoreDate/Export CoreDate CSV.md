@@ -1,8 +1,9 @@
-Tag: #CoreDate #CSV #Button #HStack #Image #Text 
+Tag: #CoreDate #CSV #Button #HStack #Image #Text #FetchedResults
 
 ---
 ## Описание:
-Эксопорт CoreDate в формат CSV
+> [!INFO]
+Экспорт CoreDate в формат CSV
 
 ---
 ## Скриншот:
@@ -75,6 +76,7 @@ struct SettingsView_Previews: PreviewProvider {
 ---
 ## Связаные ссылки:
 
+[[Button]]
 
 ---
 ## Обратные ссылки:

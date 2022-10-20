@@ -2,7 +2,7 @@ Tag: #Playground #VStack #Text #Button
 
 ---
 ## Описание:
-Пример работы с Playground. Код также подходит для работы на iPad
+> [!INFO] Пример работы с Playground. Код также подходит для работы на iPad
 
 ---
 ## Скриншот:

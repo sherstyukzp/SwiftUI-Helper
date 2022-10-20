@@ -9,7 +9,7 @@ Tag: #NavigationView #TabView #HSplitView #VSplitView
 
 
 ---
-## Связаные ссылки:
+## Связанные ссылки:
 [[NavigationView]]
 [[TabView]]
 [[HSplitView]]

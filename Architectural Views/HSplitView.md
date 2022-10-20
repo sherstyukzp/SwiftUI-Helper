@@ -2,6 +2,7 @@ Tag: #HSplitView
 
 ---
 ## Описание:
+> [!INFO]
 Waiting for release.
 
 ---
@@ -13,7 +14,7 @@ Waiting for release.
 
 
 ---
-## Связаные ссылки:
+## Связанные ссылки:
 
 
 ---

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Alert/Alert.md",
+            "file": "CoreDate/CoreDate.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 469.5
+    "width": 255.5
   },
   "right": {
     "id": "9f88fe8498e670b0",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Alert/Alert.md",
+                "file": "CoreDate/CoreDate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Alert/Alert.md",
+                "file": "CoreDate/CoreDate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Alert/Alert.md"
+                "file": "CoreDate/CoreDate.md"
               }
             }
           }
@@ -128,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e11110cc7e41fc5a",
+  "active": "c7e324f1e395169e",
   "lastOpenFiles": [
-    "Alert/Popover.md",
-    "Alert/Modal.md",
-    "Alert/Alert Show.md",
-    "State and Data Flow/Model Data/Как использовать @EnvironmentObject для обмена данными между представлениями.md",
-    "NavigationView/Добавление кнопок в вид навигации NavigationView.md",
-    "MapView/Вызов программы для навигации.md",
+    "CoreDate/Export CoreDate CSV.md",
+    "01 SwiftUI Helper.md",
+    "Shape/Shape-Rectangle.md",
+    "Shape/Shape-Path.md",
+    "Shape/Shape-Circle.md",
+    "Shape/Shape.md",
+    "DateFormatter/Формат отображения даты.md",
+    "DatePicker/Как сделать минимальную и максимальную дату.md",
     "DateFormatter/Метод получения название часа.md",
-    "DateFormatter/DateFormatter.md",
-    "DateFormatter/Метод получения года.md",
-    "CoreLocation/Пример использования CoreLocation SwiftUI + MVVM.md"
+    "DateFormatter/DateFormatter.md"
   ]
 }

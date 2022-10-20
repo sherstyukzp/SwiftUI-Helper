@@ -2,6 +2,7 @@ Tag: #TabView #TabBar #ForEach #Image  #Text
 
 ---
 ## Описание:
+> [!INFO]
 TabView используется для создания контейнера представления, содержащего нижнюю TabBar
 
 ---
@@ -26,7 +27,7 @@ TabView(selection: $index) {
 ```
 
 ---
-## Связаные ссылки:
+## Связанные ссылки:
 [[Architectural Views]]
 [[TabView две вкладки]]
 [[ForEach]]

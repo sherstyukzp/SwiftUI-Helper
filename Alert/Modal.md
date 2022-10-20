@@ -22,6 +22,7 @@ Modal(Text("Modal View"),onDismiss: {
 ---
 ## Связанные ссылки:
 [[Text]]
+[[Picker]]]
 
 ---
 ## Обратные ссылки:
