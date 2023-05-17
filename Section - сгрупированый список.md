@@ -33,9 +33,11 @@ struct ContentView: View {
 ```
 
 ---
-## Связаные ссылки:
+## Связанные ссылки:
 [[List]]
 [[Text]]
+[[Section - footer]]
+[[Section обзор]]
 
 ---
 ## Обратные ссылки:

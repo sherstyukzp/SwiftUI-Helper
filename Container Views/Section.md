@@ -23,7 +23,7 @@ Section(header: Text("I'm header"), footer: Text("I'm footer")) {
 ---
 
 
-## Связаные ссылки:
+## Связанные ссылки:
 [[ForEach]]
 [[Text]]
 [[Section - footer]]

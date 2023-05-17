@@ -20,7 +20,7 @@ var body: some View {
 NavigationView { 
 Form { 
 Section { 
-Picker(selection: $selectedFrameworkIndex, label: Text("Favorite Framework")) { ForEach(0 ..< frameworks.count) { Text(self.frameworks\[$0\]) } 
+Picker(selection: $selectedFrameworkIndex, label: Text("Favorite Framework")) { ForEach(0 ..< frameworks.count) { Text(self.frameworks[$0]) } 
 } 
 } 
 } .navigationBarTitle("Favorites") 
@@ -30,7 +30,7 @@ Picker(selection: $selectedFrameworkIndex, label: Text("Favorite Framework")) { 
 ```
 
 ---
-## Связаные ссылки:
+## Связанные ссылки:
 [[Использование Picker с формой]]
 
 ---

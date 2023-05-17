@@ -29,7 +29,7 @@ Text("Your favorite framework: \(frameworks[selectedFrameworkIndex])") }.padding
 ```
 
 ---
-## Связаные ссылки:
+## Связанные ссылки:
 [[Picker - обзор]]
 [[Form]]
 

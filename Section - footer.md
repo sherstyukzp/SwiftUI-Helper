@@ -21,7 +21,7 @@ Section(header: Text("Other tasks"), footer: Text("End")) {
 ```
 
 ---
-## Связаные ссылки:
+## Связанные ссылки:
 [[Container Views/Section]]
 [[Section]]
 
